@@ -24,7 +24,7 @@ const styles = theme =>({
 const customers = [
   {
   'id': '1',
-  'image':'https://placeimg.com/64/64/any',
+  'image':'https://placeimg.com/64/64/1',
   'name':'홍길동',
   'birthday':'960907',
   'gender':'남자',
@@ -32,7 +32,7 @@ const customers = [
 },
 {
   'id': '2',
-  'image':'https://placeimg.com/64/64/any',
+  'image':'https://placeimg.com/64/64/2',
   'name':'장세진',
   'birthday':'960307',
   'gender':'남자',
@@ -40,7 +40,7 @@ const customers = [
 },
 {
   'id': '3',
-  'image':'https://placeimg.com/64/64/any',
+  'image':'https://placeimg.com/64/64/3',
   'name':'장한별',
   'birthday':'960807',
   'gender':'남자',
